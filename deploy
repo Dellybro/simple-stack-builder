@@ -1,0 +1,2 @@
+docker build ./ -t tdelly/stack-builder:latest &&
+docker push tdelly/stack-builder:latest
